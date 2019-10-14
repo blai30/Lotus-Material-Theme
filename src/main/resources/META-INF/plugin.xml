@@ -40,8 +40,4 @@
         <bundledColorScheme path="/colors/LotusDark" id="Lotus Dark"/>
         <bundledColorScheme path="/colors/LotusLight" id="Lotus Light"/>
     </extensions>
-
-    <actions>
-
-    </actions>
 </idea-plugin>
