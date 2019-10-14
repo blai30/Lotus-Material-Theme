@@ -6,14 +6,20 @@
     <description><![CDATA[
     <h1>Lotus Theme Plugin</h1>
     <h2>A theme pack with pastel font colors for Material Theme UI for the JetBrains platform.</h2>
-    <hr>
+    <hr />
     Includes a dark theme and light theme.
     <ul>
         <li>Lotus Dark</li>
         <li>Lotus Light</li>
     </ul>
-    <img src="/screenshots/dark.png">
-    <img src="/screenshots/light.png">
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/blai30/Lotus-Theme/master/src/main/resources/screenshots/dark.png" />
+    </p>
+    <br />
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/blai30/Lotus-Theme/master/src/main/resources/screenshots/light.png" />
+    </p>
+    <br />
 
     <h3>This plugin depends on Material Theme UI and Rainbow Brackets.</h3>
     ]]></description>
