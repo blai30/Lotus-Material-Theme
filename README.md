@@ -1,12 +1,8 @@
 <div align="center">
   <img src="/src/main/resources/META-INF/pluginIcon.svg" width="320" height="320" alt="logo"></img>
 </div>
-
-# Lotus-Theme
-
 <h1>Lotus Theme Plugin</h1>
 <h2>A theme pack with pastel font colors for Material Theme UI for the JetBrains platform.</h2>
-<hr>
 Includes a dark theme and light theme.
 <ul>
     <li>Lotus Dark</li>
