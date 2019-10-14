@@ -1,10 +1,10 @@
 <scheme name="Lotus Dark" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="created">2019-10-13T18:50:24</property>
+        <property name="created">2019-10-14T13:07:14</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2019.2.2.0.0</property>
-        <property name="modified">2019-10-13T18:50:36</property>
+        <property name="modified">2019-10-14T13:07:26</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.2" />
     <font>
@@ -552,7 +552,7 @@
                 <option name="FOREGROUND" value="f59762" />
             </value>
         </option>
-        <option name="Class" baseAttributes="" />
+        <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="78dce8" />
@@ -631,7 +631,7 @@
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="41ffaa" />
+                <option name="FOREGROUND" value="99ffae" />
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -656,7 +656,7 @@
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
             <value>
-                <option name="FOREGROUND" value="41ffaa" />
+                <option name="FOREGROUND" value="99ffae" />
             </value>
         </option>
         <option name="DEFAULT_INTERFACE_NAME">
@@ -700,12 +700,12 @@
         </option>
         <option name="DEFAULT_NUMBER">
             <value>
-                <option name="FOREGROUND" value="a0f272" />
+                <option name="FOREGROUND" value="c994ff" />
             </value>
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="7bf3ff" />
+                <option name="FOREGROUND" value="c0aaff" />
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
@@ -721,7 +721,7 @@
         </option>
         <option name="DEFAULT_PREDEFINED_SYMBOL">
             <value>
-                <option name="FOREGROUND" value="41ffaa" />
+                <option name="FOREGROUND" value="99ffae" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -753,7 +753,7 @@
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="41ffaa" />
+                <option name="FOREGROUND" value="99ffae" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -910,9 +910,9 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
-        <option name="HAML_COMMENT" baseAttributes="" />
-        <option name="HAML_ID" baseAttributes="" />
-        <option name="HAML_RUBY_CODE" baseAttributes="" />
+        <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+        <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+        <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
         <option name="HAML_RUBY_START">
             <value>
                 <option name="FOREGROUND" value="78dce8" />
@@ -1181,11 +1181,6 @@
                 <option name="FOREGROUND" value="ff6188" />
             </value>
         </option>
-        <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-            <value>
-                <option name="FONT_TYPE" value="1" />
-            </value>
-        </option>
         <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
             <value />
         </option>
@@ -1203,9 +1198,6 @@
             </value>
         </option>
         <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-            <value />
-        </option>
-        <option name="KOTLIN_SAFE_ACCESS">
             <value />
         </option>
         <option name="KOTLIN_SMART_CAST_RECEIVER">
@@ -2726,7 +2718,7 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
-        <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+        <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
         <option name="SUGGESTION">
             <value>
                 <option name="EFFECT_COLOR" value="939393" />
@@ -2771,7 +2763,7 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
-        <option name="Static method access" baseAttributes="" />
+        <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
         <option name="TAPESTRY_COMPONENT_TAG">
             <value>
                 <option name="FOREGROUND" value="78dce8" />
