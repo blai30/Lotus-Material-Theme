@@ -1,0 +1,24 @@
+<mtTheme>
+    <name>Lotus Dark</name>
+    <themeId>lotusdark</themeId>
+    <dark>true</dark>
+    <editorColorsScheme>Lotus Dark</editorColorsScheme>
+    <colors>
+        <color id="background" value="141414ff"/>
+        <color id="foreground" value="a0aeb5ff"/>
+        <color id="text" value="757575ff"/>
+        <color id="highlight" value="343434ff"/>
+        <color id="selectionBackground" value="323232ff"/>
+        <color id="selectionForeground" value="ffffffff"/>
+        <color id="button" value="1c1c1cff"/>
+        <color id="secondaryBackground" value="222222ff"/>
+        <color id="disabled" value="3c3c3cff"/>
+        <color id="contrast" value="101010ff"/>
+        <color id="tableSelected" value="262626ff"/>
+        <color id="secondBorder" value="1e1e1eff"/>
+        <color id="treeSelection" value="292929ff"/>
+        <color id="notifications" value="111111ff"/>
+        <color id="accent" value="009688ff"/>
+        <color id="excluded" value="2e3c43ff"/>
+    </colors>
+</mtTheme>

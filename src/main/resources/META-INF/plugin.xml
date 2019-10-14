@@ -1,0 +1,41 @@
+<idea-plugin>
+    <id>com.blai30.lotus</id>
+    <name>Lotus Theme</name>
+    <vendor email="brianlai30@outlook.com" url="http://www.bhlai.com">blai30</vendor>
+
+    <description><![CDATA[
+    <h1>Lotus Theme Plugin</h1>
+    <h2>A theme pack with pastel font colors for Material Theme UI for the JetBrains platform.</h2>
+    <hr>
+    Includes a dark theme and light theme.
+    <ul>
+        <li>Lotus Dark</li>
+        <li>Lotus Light</li>
+    </ul>
+    <img src="/screenshots/dark.png">
+    <img src="/screenshots/light.png">
+
+    <h3>This plugin depends on Material Theme UI and Rainbow Brackets.</h3>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.chrisrm.idea.MaterialThemeUI</depends>
+    <depends>izhangzhihao.rainbow.brackets</depends>
+
+    <extensions defaultExtensionNs="com.chrisrm.idea.MaterialThemeUI">
+        <bundledTheme name="Lotus Dark" path="/themes/lotusdark"/>
+        <bundledTheme name="Lotus Light" path="/themes/lotuslight"/>
+    </extensions>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <bundledColorScheme path="/colors/LotusDark" id="Lotus Dark"/>
+        <bundledColorScheme path="/colors/LotusLight" id="Lotus Light"/>
+    </extensions>
+
+    <actions>
+
+    </actions>
+</idea-plugin>

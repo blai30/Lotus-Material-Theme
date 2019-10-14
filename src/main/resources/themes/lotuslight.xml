@@ -1,0 +1,24 @@
+<mtTheme>
+    <name>Lotus Light</name>
+    <themeId>lotuslight</themeId>
+    <dark>false</dark>
+    <editorColorsScheme>Lotus Light</editorColorsScheme>
+    <colors>
+        <color id="background" value="fafafaff"/>
+        <color id="foreground" value="546e7aff"/>
+        <color id="text" value="94a7b0ff"/>
+        <color id="highlight" value="e7e7e8ff"/>
+        <color id="selectionBackground" value="80cbc440"/>
+        <color id="selectionForeground" value="546e7aff"/>
+        <color id="button" value="f3f4f5ff"/>
+        <color id="secondaryBackground" value="eae8e8ff"/>
+        <color id="disabled" value="d2d4d5ff"/>
+        <color id="contrast" value="f4f4f4ff"/>
+        <color id="tableSelected" value="e7e7e8ff"/>
+        <color id="secondBorder" value="d3e1e8ff"/>
+        <color id="treeSelection" value="80cbc440"/>
+        <color id="notifications" value="eae8e8ff"/>
+        <color id="accent" value="00bcd4ff"/>
+        <color id="excluded" value="eae8e8ff"/>
+    </colors>
+</mtTheme>
