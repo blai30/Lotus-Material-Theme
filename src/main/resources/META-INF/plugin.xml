@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.blai30.lotus</id>
     <name>Lotus Theme</name>
-    <vendor email="brianlai30@outlook.com" url="http://www.bhlai.com">blai30</vendor>
+    <vendor url="http://www.bhlai.com">blai30</vendor>
 
     <description><![CDATA[
     <h1>Lotus Theme Plugin</h1>

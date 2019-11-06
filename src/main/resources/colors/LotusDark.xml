@@ -1,10 +1,10 @@
 <scheme name="Lotus Dark" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="created">2019-10-14T13:07:14</property>
+        <property name="created">2019-11-05T23:28:32</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2019.2.2.0.0</property>
-        <property name="modified">2019-10-14T13:07:26</property>
+        <property name="ideVersion">2019.2.4.0.0</property>
+        <property name="modified">2019-11-05T23:28:45</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.2" />
     <font>
@@ -28,7 +28,7 @@
     <colors>
         <option name="ADDED_LINES_COLOR" value="a9dc76" />
         <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-        <option name="CARET_COLOR" value="ffcc00" />
+        <option name="CARET_COLOR" value="ffb3d6" />
         <option name="CARET_ROW_COLOR" value="c0c0c" />
         <option name="CONSOLE_BACKGROUND_KEY" value="171717" />
         <option name="DELETED_LINES_COLOR" value="ff6188" />
