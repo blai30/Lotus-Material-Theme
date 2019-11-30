@@ -172,3 +172,5 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/java,macos,gradle,jetbrains+all,visualstudiocode
+
+!jar/*.jar
