@@ -8,7 +8,7 @@
     </metaInfo>
     <option name="LINE_SPACING" value="1.2" />
     <font>
-        <option name="EDITOR_FONT_NAME" value="Fira Code" />
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
         <option name="EDITOR_FONT_SIZE" value="14" />
     </font>
     <font>
@@ -17,7 +17,7 @@
     </font>
     <option name="EDITOR_LIGATURES" value="true" />
     <console-font>
-        <option name="EDITOR_FONT_NAME" value="Fira Code" />
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
         <option name="EDITOR_FONT_SIZE" value="14" />
     </console-font>
     <console-font>
