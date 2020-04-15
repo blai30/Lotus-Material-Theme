@@ -1,10 +1,10 @@
 <scheme name="Lotus Light" version="142" parent_scheme="Default">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="created">2019-10-13T19:36:22</property>
+        <property name="created">2020-04-15T15:06:41</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2019.2.2.0.0</property>
-        <property name="modified">2019-10-13T19:36:28</property>
+        <property name="ideVersion">2020.1.0.0</property>
+        <property name="modified">2020-04-15T15:07:10</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.2" />
     <font>
@@ -637,7 +637,7 @@
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="fcfcfa" />
+                <option name="FOREGROUND" value="363636" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
@@ -668,7 +668,7 @@
         </option>
         <option name="DEFAULT_LABEL">
             <value>
-                <option name="FOREGROUND" value="fcfcfa" />
+                <option name="FOREGROUND" value="363636" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -1160,11 +1160,6 @@
         <option name="KOTLIN_EXCLEXCL">
             <value>
                 <option name="FOREGROUND" value="ff6188" />
-            </value>
-        </option>
-        <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-            <value>
-                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
