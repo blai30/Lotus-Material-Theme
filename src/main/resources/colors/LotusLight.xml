@@ -774,26 +774,26 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="4b1515" />
-                <option name="ERROR_STRIPE_COLOR" value="b03435" />
+                <option name="BACKGROUND" value="e88b95" />
+                <option name="ERROR_STRIPE_COLOR" value="d53b3d" />
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="41454b" />
-                <option name="ERROR_STRIPE_COLOR" value="656e76" />
+                <option name="BACKGROUND" value="cbc7c5" />
+                <option name="ERROR_STRIPE_COLOR" value="999593" />
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="264b33" />
-                <option name="ERROR_STRIPE_COLOR" value="447152" />
+                <option name="BACKGROUND" value="b2efbf" />
+                <option name="ERROR_STRIPE_COLOR" value="89d59f" />
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="12404b" />
-                <option name="ERROR_STRIPE_COLOR" value="43698d" />
+                <option name="BACKGROUND" value="8abdda" />
+                <option name="ERROR_STRIPE_COLOR" value="4ea7d5" />
             </value>
         </option>
         <option name="DJANGO_FILTER">
@@ -989,8 +989,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="fffbf7" />
-                <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+                <option name="EFFECT_COLOR" value="999593" />
+                <option name="ERROR_STRIPE_COLOR" value="97C4CB" />
             </value>
         </option>
         <option name="IGNORE.BRACKET">
@@ -2060,7 +2060,7 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="99ccbb" />
+                <option name="BACKGROUND" value="C2F7E6" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -2829,8 +2829,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="fffbf7" />
-                <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+                <option name="EFFECT_COLOR" value="999593" />
+                <option name="ERROR_STRIPE_COLOR" value="97C4CB" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
