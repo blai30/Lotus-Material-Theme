@@ -3,7 +3,7 @@ plugins {
     id 'org.jetbrains.intellij' version '0.4.10'
 }
 
-version '1.2.2'
+version '1.2.3'
 
 sourceCompatibility = 1.8
 
@@ -20,7 +20,7 @@ intellij {
     pluginName 'lotus-theme'
     version '2019.3'
     plugins 'com.chrisrm.idea.MaterialThemeUI:4.11.5',
-            'izhangzhihao.rainbow.brackets:5.34'
+            'izhangzhihao.rainbow.brackets:5.35'
 }
 patchPluginXml {
     changeNotes file("$projectDir/docs/CHANGELOG.html").text
