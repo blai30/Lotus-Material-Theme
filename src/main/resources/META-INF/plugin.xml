@@ -1,6 +1,6 @@
 <idea-plugin>
-    <id>com.blai30.lotus</id>
-    <name>Lotus Theme</name>
+    <id>com.blai30.lotus.material</id>
+    <name>Lotus Material Theme</name>
     <vendor url="http://www.bhlai.com">blai30</vendor>
 
     <description><![CDATA[
